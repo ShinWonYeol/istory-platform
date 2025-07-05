@@ -1,6 +1,9 @@
 **/.env.secret
+**/.env.app.config
+**/.env.db.secret
 **/*.sh
 **/.terraform
 **/terraform.tfstate*
 **/.terraform.lock.hcl
 **/create-secret.sh
+
